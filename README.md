@@ -1,13 +1,12 @@
-# Sales-Performance-Dashboard
-Interactive Excel Dashboard for Sales Analysis
-## Overview
-This project is a comprehensive Data Analysis tool created in Excel to track sales performance and profit margins across different regions, products, and sales representatives.
+# Sales Performance Dashboard
 
-## Key Features
-- **Interactive Visuals:** Dynamic charts that respond to user filters.
-- **KPI Tracking:** Real-time calculation of Total Sales, Profit, and Profitability (44.8%).
-- **Advanced Excel Techniques:** Used Pivot Tables, Slicers, and Calculated Fields for data processing.
-- **Design:** Modern Dark Mode interface for better data storytelling.
+## Project Overview
+This interactive dashboard analyzes sales data and profitability.
 
-## Visual Preview
+## Key Metrics
+* **Total Sales:** Over $5.1M
+* **Profit:** Over $2.3M
+* **Profitability:** 44.8%
+
+## Dashboard Preview
 ![Dashboard Preview](Dash board 1.2.png)
